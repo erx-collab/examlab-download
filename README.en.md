@@ -72,6 +72,8 @@ Reaching the pass mark puts the exam's **reward** emoji 🏆 on your profile.
 
 - **Super User panel**: users and roles (profession, Teacher/Student, 🔑 temporary passwords), professions with pictures, live **logs** (registrations, roles, exams, channels, moderation) and **results export** for every exam (PDF/Excel).
 - Channels anywhere (everyone / one profession / teachers), any message can be removed, and **🔇 mute** a user in chat (1 hour, 1 day, until unmuted).
+- **🗑️ Delete account** and **🚫 Block the computer**: no new account can be created from that computer (undo in "Blocked computers").
+- **superuser1** can also give other Super Users a 🔑 temporary password.
 
 ---
 

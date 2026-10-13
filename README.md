@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="icon.png" width="120" alt="ExamLab">
+<img src="icon.png" width="120" alt="picsexamlab">
 
-# ExamLab
+# picsexamlab
 
 **Քննությունների հարթակ ակադեմիայի ուսանողների և դասախոսների համար**
 
@@ -16,56 +16,56 @@
 
 | Համակարգ | Ֆայլ |
 |---|---|
-| 🍎 **macOS 13 և նոր** (Intel և Apple Silicon) | [**ExamLab-macOS.dmg**](../../releases/latest/download/ExamLab-macOS.dmg) |
-| 🍎 **macOS 12 Monterey** ¹ | [ExamLab-macOS-Legacy.dmg](../../releases/latest/download/ExamLab-macOS-Legacy.dmg) |
-| 🪟 **Windows 10 / 11** | [**ExamLab-Windows.exe**](../../releases/latest/download/ExamLab-Windows.exe) |
-| 🐧 **Ubuntu / Debian** | [**ExamLab-Linux.deb**](../../releases/latest/download/ExamLab-Linux.deb) |
-| 🐧 Այլ Linux | [ExamLab-Linux.AppImage](../../releases/latest/download/ExamLab-Linux.AppImage) |
+| 🍎 **macOS 13 և նոր** (Intel և Apple Silicon) | [**picsexamlab-macOS.dmg**](../../releases/latest/download/picsexamlab-macOS.dmg) |
+| 🍎 **macOS 12 Monterey** ¹ | [picsexamlab-macOS-Legacy.dmg](../../releases/latest/download/picsexamlab-macOS-Legacy.dmg) |
+| 🪟 **Windows 10 / 11** | [**picsexamlab-Windows.exe**](../../releases/latest/download/picsexamlab-Windows.exe) |
+| 🐧 **Ubuntu / Debian** | [**picsexamlab-Linux.deb**](../../releases/latest/download/picsexamlab-Linux.deb) |
+| 🐧 Այլ Linux | [picsexamlab-Linux.AppImage](../../releases/latest/download/picsexamlab-Linux.AppImage) |
 
 Բոլոր տարբերակները՝ [**Releases**](../../releases) էջում։ · 🇬🇧 [English guide](README.en.md)
 
 ¹ macOS 12-ի տարբերակը հիմնված է Electron 43-ի վրա, որը 2027 թ. հունվարի 5-ից այլևս չի թարմացվում․ այն կշարունակի հրապարակվել, բայց խորհուրդ ենք տալիս թարմացնել macOS-ը։
 
 > [!NOTE]
-> ExamLab-ն աշխատում է **ինտերնետով**․ նույն Wi-Fi-ում լինել պետք չէ։ Ծրագիրը ինքն է գտնում սերվերը։
+> picsexamlab-ն աշխատում է **ինտերնետով**․ նույն Wi-Fi-ում լինել պետք չէ։ Ծրագիրը ինքն է գտնում սերվերը։
 
 ---
 
 ## 🍎 Տեղադրում macOS-ում
 
 1. Ներբեռնիր քո macOS-ի ֆայլը (ո՞ր տարբերակն ունես՝  → **About This Mac**)։
-2. Բացիր `.dmg`-ն և **ExamLab**-ը քաշիր **Applications** պանակ։
-3. Բացիր ծրագիրը։ Եթե macOS-ը գրի «*Apple could not verify "ExamLab"…*» → սեղմիր **Done**։
+2. Բացիր `.dmg`-ն և **picsexamlab**-ը քաշիր **Applications** պանակ։
+3. Բացիր ծրագիրը։ Եթե macOS-ը գրի «*Apple could not verify "picsexamlab"…*» → սեղմիր **Done**։
 4. **System Settings → Privacy & Security** → ներքևում **Open Anyway** → Mac-ի գաղտնաբառը → **Open Anyway**։
 
 > [!TIP]
 > macOS 12 և 13-ում՝ աջ սեղմում ծրագրի վրա → **Open** → **Open**։
-> Եթե գրի «*ExamLab is damaged*»՝ Terminal-ում․ `xattr -cr /Applications/ExamLab.app`
+> Եթե գրի «*picsexamlab is damaged*»՝ Terminal-ում․ `xattr -cr /Applications/picsexamlab.app`
 
 ## 🪟 Տեղադրում Windows-ում
 
-1. Ներբեռնիր `ExamLab-Windows.exe` և բացիր (տեղադրել պետք չէ)։
+1. Ներբեռնիր `picsexamlab-Windows.exe` և բացիր (տեղադրել պետք չէ)։
 2. «*Windows protected your PC*» → **More info** → **Run anyway**։
 
 ## 🐧 Տեղադրում Linux-ում
 
-**Ubuntu / Debian**՝ կրկնակի սեղմիր `ExamLab-Linux.deb` → **Install**, կամ տերմինալում՝
+**Ubuntu / Debian**՝ կրկնակի սեղմիր `picsexamlab-Linux.deb` → **Install**, կամ տերմինալում՝
 
 ```bash
-sudo apt install ./ExamLab-Linux.deb
+sudo apt install ./picsexamlab-Linux.deb
 ```
 
 **Այլ Linux**՝ AppImage (FUSE տեղադրել պետք չէ)․
 
 ```bash
-chmod +x ExamLab-Linux.AppImage && ./ExamLab-Linux.AppImage
+chmod +x picsexamlab-Linux.AppImage && ./picsexamlab-Linux.AppImage
 ```
 
 ---
 
 ## 👤 Գրանցում և մուտք
 
-1. Բացիր ExamLab → **Մուտք / Գրանցում որպես User** → **Գրանցվել**։
+1. Բացիր picsexamlab → **Մուտք / Գրանցում որպես User** → **Գրանցվել**։
 2. Լրացրու անունը, ազգանունը, **մուտքանունը** (լատինատառ), **հայաստանյան հեռախոսահամարը** և գաղտնաբառը։
    🔒 Հեռախոսահամարը տեսնում են միայն դասախոսները և Super User-ները։
 3. «**Հիշել ինձ**»՝ հաջորդ անգամ մուտք գործելու կարիք չի լինի (ընդհանուր համակարգչում անջատիր այն և սեղմիր **Ելք**)։
@@ -78,7 +78,7 @@ chmod +x ExamLab-Linux.AppImage && ./ExamLab-Linux.AppImage
 1. Գլխավոր էջում գտիր քննությունը (որոնում և ֆիլտր ըստ մասնագիտության) → սեղմիր քարտը։
 2. Մուտքագրիր դասախոսի տված **գաղտնաբառը** → **Մուտք**։ Սպասիր, մինչև դասախոսը սկսի քննությունը։
 3. Քննության ընթացքում պատուհանը **չի կարելի փակել**․ Alt+Tab, Cmd+Tab, պատուհանից դուրս գալը անմիջապես ծանուցվում են դասախոսին։
-4. Պատասխանները պահպանվում են ավտոմատ։ Եթե կապը կորի կամ համակարգիչը անջատվի՝ պարզապես նորից բացիր ծրագիրը (և մուտք գործիր)․ ExamLab-ը **ինքն է վերադառնում քննություն**՝ նույն պատասխաններով և ժամանակով։
+4. Պատասխանները պահպանվում են ավտոմատ։ Եթե կապը կորի կամ համակարգիչը անջատվի՝ պարզապես նորից բացիր ծրագիրը (և մուտք գործիր)․ picsexamlab-ը **ինքն է վերադառնում քննություն**՝ նույն պատասխաններով և ժամանակով։
 5. Հարց ունե՞ս դասախոսին՝ սեղմիր ներքևում **💬 Հարց դասախոսին**։ Դասախոսի պատասխանները (և բոլորին ուղղված հայտարարությունները) կհայտնվեն այնտեղ։ Այս չաթը ջնջվում է քննության ավարտին։
 6. **ՀԱՆՁՆԵԼ** → արդյունք։ Եթե կան շարադրանք/կոդ հարցեր, դրանց միավորները կավելանան դասախոսի գնահատումից հետո (կստանաս ծանուցում)։
 7. **Դիտել պատասխանները** → մանրամասն վերլուծություն և **PDF**։ Վերջում՝ **Գլխավոր էջ** կամ **Փակել ծրագիրը**։
@@ -98,7 +98,7 @@ chmod +x ExamLab-Linux.AppImage && ./ExamLab-Linux.AppImage
 - **«+»** կոճակով ստեղծիր քննություն՝ 8 տեսակի հարցեր (մեկ/մի քանի ճիշտ, ճիշտ/սխալ, լրացնել կոդը, կարճ պատասխան, շարադրանք, գրել կոդ, նկարով հարցեր), միավորներ, գաղտնաբառ, անցողիկ շեմ և պարգև։
 - **Իմ քննությունները** → քննություն → **Բացել սեսիա** → **Սկսել**։ Live աղյուսակում տեսնում ես ամեն ուսանողի ընթացքը, ծանուցումները, կարող ես ապակողպել պատուհանը (🔓)։
 - **Գնահատման սպասող** ցուցակից գնահատիր շարադրանքներն ու կոդը։ **Արդյունքներ**՝ լավագույններ (TOP 1/2/3), կրկնակի հանձնման թույլտվություն (↻), PDF/Excel։
-- **✨ Ստեղծել AI-ով** (անվճար)․ կառուցողում ընտրիր թեման, հարցերի քանակն ու տեսակները → **📋 Պատճենել** → տեղադրիր ցանկացած AI չաթում (ChatGPT, Gemini, Claude…) → պատասխանը տեղադրիր ExamLab-ում → հարցերը կավելանան սևագրով․ ստուգիր և պահպանիր։
+- **✨ Ստեղծել AI-ով** (անվճար)․ կառուցողում ընտրիր թեման, հարցերի քանակն ու տեսակները → **📋 Պատճենել** → տեղադրիր ցանկացած AI չաթում (ChatGPT, Gemini, Claude…) → պատասխանը տեղադրիր picsexamlab-ում → հարցերը կավելանան սևագրով․ ստուգիր և պահպանիր։
 - Live աղյուսակում **💬**՝ առանձին չաթ ամեն ուսանողի հետ, **📣 Բոլորին**՝ հաղորդագրություն բոլոր ուսանողներին։
 - **Իմ ուսանողները** (Ուսուցում էջում)՝ ուսանողների հեռախոսները և **🔑 ժամանակավոր գաղտնաբառ** մոռացածների համար։
 - Ստեղծիր ալիքներ քո մասնագիտության համար (ձախ եզր → **+**), ջնջիր ոչ պատշաճ հաղորդագրությունները։

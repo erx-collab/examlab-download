@@ -44,7 +44,7 @@
 ## 📝 Taking an exam
 
 1. Find the exam on the main page (search, profession filter) → open the card → enter the **password** from your teacher → wait until the teacher starts.
-2. During the exam the window **cannot be closed**; Alt+Tab, Cmd+Tab and leaving the window are reported to the teacher right away.
+2. During the exam the screen is **locked to the exam**: the window cannot be closed, app-switching keys (Alt+Tab, Cmd+Tab, the Windows key…) are blocked, and any attempt to leave brings the exam straight back and is reported to the teacher.
 3. Answers are saved automatically. If the connection drops or the computer turns off, just open the app again (and log in): picsexamlab **goes back into the exam by itself**, with your answers and the time left.
 4. A question for the teacher? Press **💬 Ask the teacher** at the bottom. Replies (and messages to everyone) appear there. This chat is deleted when the exam ends.
 5. **SUBMIT** → result. Essay and code points are added after the teacher grades them (you get a notification).
@@ -64,7 +64,7 @@ Reaching the pass mark puts the exam's **reward** emoji 🏆 on your profile.
 - **+** creates an exam: 8 question types (single/multiple choice, true/false, fill in the code, short answer, essay, write code, questions with pictures), points, password, pass mark and reward.
 - **✨ Create with AI** (free): in the builder choose the topic, number and types of questions → **📋 Copy** → paste into any AI chat (ChatGPT, Gemini, Claude…) → paste the answer back into picsexamlab → the questions are added as a draft; check them and save.
 - **My exams** → exam → **Open session** → **Start**. The Live table shows every student's progress and alerts; 🔓 releases a student's window; **💬** chats with one student, **📣 Everyone** writes to all of them.
-- **To grade** list for essays and code; **Results**: TOP 1/2/3, retake permission (↻), PDF/Excel.
+- **To grade** list for essays and code; **Results** in points (e.g. 17 / 20), TOP 1/2/3 and groups by points (for 20 points: 16–20, 12–15, 8–11, 4–7, 0–3), PDF/Excel. A submitted exam cannot be taken again.
 - **My students** (bottom of the "My exams" page): your students' phone numbers and **🔑 temporary password** for anyone who forgot theirs.
 - Create channels for your profession (left edge → **+**) and remove inappropriate messages.
 

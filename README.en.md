@@ -65,7 +65,7 @@ Reaching the pass mark puts the exam's **reward** emoji 🏆 on your profile.
 - **✨ Create with AI** (free): in the builder choose the topic, number and types of questions → **📋 Copy** → paste into any AI chat (ChatGPT, Gemini, Claude…) → paste the answer back into picsexamlab → the questions are added as a draft; check them and save.
 - **My exams** → exam → **Open session** → **Start**. The Live table shows every student's progress and alerts; 🔓 releases a student's window; **💬** chats with one student, **📣 Everyone** writes to all of them.
 - **To grade** list for essays and code; **Results**: TOP 1/2/3, retake permission (↻), PDF/Excel.
-- **My students** (Teaching page): your students' phone numbers and **🔑 temporary password** for anyone who forgot theirs.
+- **My students** (bottom of the "My exams" page): your students' phone numbers and **🔑 temporary password** for anyone who forgot theirs.
 - Create channels for your profession (left edge → **+**) and remove inappropriate messages.
 
 ## ⚡ For Super Users
